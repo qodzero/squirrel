@@ -1,0 +1,6 @@
+iconfonts
+navigationdrawer
+matplotlib
+magnet
+circularlayout
+circulardatetimepicker
