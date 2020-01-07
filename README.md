@@ -13,10 +13,18 @@ Installation
 ---------------
 
 `python3 -m venv squirrel`
+\
 `cd squirrel`
+\
 `. bin/activate`
+\
 `pip install squirrel\requirements.txt`
+\
 `sh squirrel/system_requirements.txt`
+\
 `garden install squirrel/garden_requirements.txt`
+\
 `cd squirrel`
+\
 `python main.py` 
+\
