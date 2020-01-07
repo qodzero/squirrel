@@ -18,6 +18,9 @@ Installation
 `cd squirrel`
 \
 \
+`git clone https://github.com/qodzero/squirrel.git`
+\
+\
 `. bin/activate`
 \
 \
